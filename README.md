@@ -1,3 +1,3 @@
-👋 Hi, I’m Davron, a Frontend Developer (for now 😎).
+👋 Hi, I’m Davron (Duke), a Frontend Developer (for now 😎).
 
-🌱 These days, I am learning NestJS and Python to become a Full-Stack Developer.
+🌱 These days, I am learning NestJS and Python to become a Full-Stack Developer (+CyberSecurity).
